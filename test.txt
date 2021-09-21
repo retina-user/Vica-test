@@ -9,3 +9,4 @@ dddddd
 #35885 --github test 20210919
 deleted repo in cbx
 classic
+classic-deleted
